@@ -2,7 +2,7 @@
 The famous XWorm RAT for free, all the popular RAT options + Icon Collection. Please leave a ⭐️star⭐️ to this repository for more leaks 
 
 
-⭐️Run File: 🔹From disk 🔹From link 🔹From memory 🔹RunPE
+⭐️Run File: 🔹From disk 🔹From link 🔹From memory 🔹RunPE 
 <br>⭐WebCam
 <br>⭐️Microphone
 <br>⭐️System Sound
