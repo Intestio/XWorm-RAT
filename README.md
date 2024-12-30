@@ -35,7 +35,7 @@ The famous XWorm RAT for free, all the popular RAT options + Icon Collection. Pl
 <br>⭐️Auto startup
 <br>⭐️Persistence
 <br>⭐️Tinynuke HVNC
-<br>⭐️And much more
+<br>⭐️And much more 
 
 ![Безымянный](https://github.com/Intestio/XWorm-RAT/assets/172550242/0ba1ccfe-092d-4f54-a03b-583416e09c96)
 
